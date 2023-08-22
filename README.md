@@ -1,7 +1,5 @@
 # formas.java
-Crie um programa que tenha:
-
-- Classes: Quadrado, Circulo, Triangulo que tenham
+Crie um programa com as classes Quadrado, Circulo e Triangulo que tenham:
 - Atributos: cor (pode ser texto)
 - Métodos:
 - MostrarCor(): usar atributo cor
