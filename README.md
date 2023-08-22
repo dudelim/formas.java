@@ -4,9 +4,7 @@ Crie um programa com as classes Quadrado, Circulo e Triangulo que tenham:
 - Métodos:
 - MostrarCor(): usar atributo cor
 - CalcularArea()
-
 - Implementação :  exibir uma mensagem  ”Cálculo específico de quadrado” (mudar item sublinhado para cada formato)
-
 - Criar uma classe Forma que é mãe de todas as formas.
 
 Na classe main
